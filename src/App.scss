@@ -1,0 +1,81 @@
+@import "./access/scss/index.scss";
+
+.padding-app {
+  padding: 0 24px;
+}
+
+a {
+  text-decoration: unset;
+  color: unset;
+}
+
+div,
+p,
+span {
+  line-height: 1.5;
+  font-size: 15px;
+}
+
+.loading-center {
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.max-line1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1; /* number of lines to show */
+  line-clamp: 1;
+  -webkit-box-orient: vertical;
+  white-space: normal;
+}
+.max-line2 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* number of lines to show */
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.max-line3 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* number of lines to show */
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.title-main {
+  font-size: 32px;
+  line-height: 2;
+  color: #007eb9;
+}
+
+.subtitle {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 2;
+  color: #007eb9;
+}
+
+.page-common {
+  padding: 24px;
+}
+
+.indented-paragraph {
+  text-indent: 20px; /* giá trị lùi vào, ở đây là 20 pixel */
+}
+
+.title-page {
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.h-100 {
+  height: 100%;
+}
