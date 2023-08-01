@@ -84,15 +84,15 @@ const Header = () => {
     <WrapHeader>
       <div className="top-header d-flex justify-content-between align-items-center padding-app">
         <div className="top-header_slogan" style={{ fontWeight: 700 }}>
-          A2Z COMMUNITY CARE
+          HEART AND VIRTUE PTY LTD
         </div>
         <div className="top-header_contact d-flex align-items-center">
           {/* <div className="mr-12 divider" /> */}
           <a
-            href="mailto:someone@example.com"
+            href="mailto:info@heartandvirtue.com.au"
             className="contact-info d-flex align-items-center"
           >
-            <AiOutlineMail className="mr-8" /> Info@a2zcommunitycare.com.au
+            <AiOutlineMail className="mr-8" /> info@heartandvirtue.com.au
           </a>
           <a
             href="tel: +610426126879"

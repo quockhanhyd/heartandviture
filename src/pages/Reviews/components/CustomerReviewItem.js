@@ -7,7 +7,7 @@ const CustomerReviewItem = ({ isRight }) => {
       {!isRight && (
         <div className="mr-16">
           <div>
-            "Very satisfied working with proactive team at A2Z Community Care,
+            "Very satisfied working with proactive team at Heart and Virtue Pty Ltd,
             they are very detailed with their service delivery and provided
             exceptional services to its participants." <b>Ms. Wanda</b> said
           </div>
@@ -27,7 +27,7 @@ const CustomerReviewItem = ({ isRight }) => {
       {!!isRight && (
         <div className="ml-16">
           <div>
-            "Very satisfied working with proactive team at A2Z Community Care,
+            "Very satisfied working with proactive team at Heart and Virtue Pty Ltd,
             they are very detailed with their service delivery and provided
             exceptional services to its participants." <b>Ms. Wanda</b> said
           </div>

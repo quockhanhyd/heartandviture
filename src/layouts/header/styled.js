@@ -68,7 +68,7 @@ export const WrapHeader = styled.div`
         display: flex;
         align-items: center;
         img {
-          height: 70%;
+          height: 160%;
           /* filter: brightness(250%); */
         }
       }

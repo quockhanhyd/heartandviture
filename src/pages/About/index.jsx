@@ -16,7 +16,7 @@ const AboutPage = () => {
         </div>
       </WrapHeader>
       <WrapAboutPage className="page-common">
-        <div className="title-main">A2Z Community Care</div>
+        <div className="title-main">Heart and Virtue Pty Ltd</div>
         <div className="subtitle">{t("ABOUT US")}:</div>
         <div className="content indented-paragraph">
           {t("ABOUT US CONTENT")}

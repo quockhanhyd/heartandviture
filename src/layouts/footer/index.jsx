@@ -84,7 +84,7 @@ const Footer = () => {
             ></iframe>
           </div>
           {/* <a
-            href="mailto:someone@example.com"
+            href="mailto:info@heartandvirtue.com.au"
             className="footer_content fw-500 d-flex align-items-center"
           >
             <FaEnvelopeOpenText className="mr-8" />
